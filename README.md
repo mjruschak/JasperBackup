@@ -2,7 +2,7 @@
 
 Authored by [Michael Ruschak](http://www.mikeruschak.com/). Named after the cute Black Lab I used to walk for the neighbors accross the street when I was a kid. Not to random since my servers are named after dogs.
 
-This program backs up your MySQL database and home directories to Dropbox. Can optionally be run as a cron job nightly. Email notifications will be sent at the end of the scripts execution. I host my sites with Linode and use their backup service however I didn't want to depend on them alone.
+This program backs up your MySQL database and home directories to Dropbox. Can optionally be run as a cron job nightly. Email notifications will be sent at the end of the scripts execution in the next version. I host my sites with Linode and use their backup service however I didn't want to depend on them alone.
 
 ##Requirements
 I reccomend you install and configure a Python virtual environment for this script.
